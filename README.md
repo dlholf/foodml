@@ -23,3 +23,7 @@ There are 5 script files in the folder 'scripts'.
 4. surrogate_plots.R does the same as 3, but with 'Yes'/'No' coding of the binary choices, such that we can plot surrogate trees using these responses instead.
 
 5. metrics.R analyses the extracted metrics from 3.
+
+The folder 'plots' contain the SHAP and partial dependency plots produced in the scripts.
+
+The folder 'metrics' contain the extracted model fit metrics and SHAP values produced in the run_models.R script.
